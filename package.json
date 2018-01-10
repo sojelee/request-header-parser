@@ -1,0 +1,35 @@
+{
+  "name": "requestheaderparser",
+  "version": "1.0.0",
+  "description": "FreeCode Camp API Basejumps Request Header Parser Microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sojelee/request-header-parser.git"
+  },
+  "keywords": [
+    "node",
+    "javscript",
+    "express",
+    "FreeCodeCamp",
+    "fcc"
+  ],
+
+  "author": "Joseph C Myalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sojelee/request-header-parser/issues"
+  },
+  "homepage": "https://github.com/sojelee/request-header-parser#readme"
+}
